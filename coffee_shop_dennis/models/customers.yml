@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: coffee_shop
+    database: analytics-engineers-club
+    schema: coffee_shop
+    tables:
+      - name: customers
+      - name: orders
